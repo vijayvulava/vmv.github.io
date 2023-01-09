@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 01AtomsFirst
+- file: 02Thermodynamics
+- file: 03ChemicalEquilibrium
+- file: 04AcidsBases
+- file: 05Redox
+- file: 06Kinetics
+- file: 07Isotopes
+- file: 08Organics
+- file: Appendix

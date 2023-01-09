@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"59c2b66c379cae66","x":35,"y":-27,"width":250,"height":264,"type":"text","text":"Table \n```{table} My table title\n:name: my-table-ref\n| header 1 | header 2 |\n|---|---|\n| 3 | 4 |\n```"},
+		{"id":"576fcdd62ed5b603","x":-365,"y":-443,"width":333,"height":374,"type":"text","text":"$\\Delta_{rxn}G^\\circ$\n$\\Delta_{rxn}H^\\circ$\n$\\Delta_{rxn}S^\\circ$\n$\\ce{e-}$ \n\n$\\ce{H+}$ \n$\\ce{H3O+}$\n$p\\ce{H}$ and $p\\ce{OH}$\n$\\ce{H}$\n$\\{\\ce{H3O+}\\}$ \n$\\{\\ce{OH-}\\}$\n$\\pu{25 ^\\circ C}$\n$\\ce{^{14}C}$\n$\\ce{_{6}^{14}C}$"},
+		{"id":"52eb3b1de3c445d9","x":-365,"y":221,"width":333,"height":198,"type":"text","text":"Example\n```{dropdown} Example: \n\n```\n"},
+		{"id":"656b594527b85ec1","x":367,"y":-27,"width":250,"height":213,"type":"text","text":"Admonition\n```{admonition} Here's your admonition\nHere's the admonition content\n```\n"},
+		{"id":"16597730508b2b7b","x":367,"y":221,"width":250,"height":198,"type":"text","text":"Chemical reactions\n$$\n\\begin{align*}\n\\ce{\n}\n\\end{align*}\n$$\n"},
+		{"id":"6990d167b0803b9b","x":35,"y":-284,"width":250,"height":194,"type":"text","text":"Math\n```{math}\n:label: \n\\delta S > \\frac{\\delta q}{T}\n```\n"},
+		{"id":"14e97cc3456a4ac1","x":-365,"y":-27,"width":333,"height":218,"type":"text","text":"Figure\n```{figure} ../images/cool.jpg\n---\nname: my-fig-ref\n---\nMy figure title.\n```\n"},
+		{"id":"054b1bfac033f382","x":35,"y":296,"width":250,"height":198,"type":"text","text":"Margin Note\n````{margin}\n```{note}\nHere's my note!\n```\n````\n"}
+	],
+	"edges":[]
+}
